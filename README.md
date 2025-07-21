@@ -4,44 +4,6 @@
 📚 Estou me aprofundando em Redes de Computadores e Desenvolvimento de Sistemas.  
 🎮 Nas horas vagas, gosto de tecnologia, academia e jogos.
 
-
-## 🛠️ Tools
-
-
-
-
-
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/></span>
-
-## 💻 Languages
-
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/></span>
-<span style="display:inline-block; margin-right:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/></span>
-
-## 🌐 Onde me encontrar
-
-<a href="https://www.instagram.com/seuusuario" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/>
-</a>
-<a href="https://www.linkedin.com/in/seuusuario" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
-</a>
-<a href="https://discord.com/users/seuusuario" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="20"/>
-</a>
-
-++++++++++++++++++++++++++++++++++++++++++++++
-
 <div class="markdown-heading" dir="auto"><h3 align="left" class="heading-element" dir="auto">⚙️ Tools</h3><a id="user-content-️-tools" class="anchor" aria-label="Permalink: ⚙️ Tools" href="#️-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <h3 dir="auto"></h3>
