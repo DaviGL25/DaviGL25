@@ -40,14 +40,10 @@
 <h3 dir="auto"></h3>
 
 <div align="center" dir="auto">
-  <a href="https://www.instagram.com/felipeyw/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="15" alt="instagram logo" style="max-width: 100%; height: auto; max-height: 15px;">
-  </a>
+  
   <a href="https://www.linkedin.com/in/felipepetronio/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="15" alt="linkedin logo" style="max-width: 100%; height: auto; max-height: 15px;">
   </a>
-  <a href="https://discord.gg/ZwjAErGWGH" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="15" alt="discord logo" style="max-width: 100%; height: auto; max-height: 15px;">
-  </a>
+  
 </div>
 
