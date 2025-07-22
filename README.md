@@ -34,6 +34,15 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" height="25" alt="c logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%; height: auto; max-height: 25px;"></a>
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="25" alt="mysql logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%; height: auto; max-height: 25px;"></a>
+    <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/207446ac893c71f7ac60dd048f31a68f7a84fd73fdbe0b3a7a8033fc8f7483d1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c356f726967696e616c2f68746d6c356f726967696e616c2e737667">
+  <img src="https://camo.githubusercontent.com/207446ac893c71f7ac60dd048f31a68f7a84fd73fdbe0b3a7a8033fc8f7483d1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c356f726967696e616c2f68746d6c356f726967696e616c2e737667" 
+       height="25" 
+       alt="html logo" 
+       data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       style="max-width: 100%; height: auto; max-height: 25px;">
+</a>
+
 </div>
 
 
