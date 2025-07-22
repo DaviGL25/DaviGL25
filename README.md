@@ -13,6 +13,8 @@
     🎮 Nas horas vagas, gosto de tecnologia, academia e jogos.
   </p>
 
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
+
   <h3>⚙️ Ferramentas</h3>
   <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
     <a href="#" target="_blank" rel="noopener noreferrer nofollow">
@@ -25,6 +27,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android logo">
     </a>
   </div>
+
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
 
   <h3>🛠 Linguagens</h3>
   <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
