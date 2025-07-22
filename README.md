@@ -5,6 +5,7 @@
 </head>
 <body style="font-family: sans-serif; line-height: 1.6;">
 
+<!--
   <h3>👋 Olá! Eu sou o Davi</h3>
 
   <p>
@@ -14,6 +15,7 @@
   </p>
 
   <h3 dir="auto"></h3>
+  -->
 
   <h3>⚙️ Ferramentas</h3>
   <h3 dir="auto"></h3>
