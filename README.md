@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Perfil Davi</title>
 </head>
 <body style="font-family: sans-serif; line-height: 1.6;">
 
