@@ -13,7 +13,7 @@
     🎮 Nas horas vagas, gosto de tecnologia, academia e jogos.
   </p>
 
-  <h3>⚙️ Tools</h3>
+  <h3>⚙️ Ferramentas</h3>
   <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
     <a href="#" target="_blank" rel="noopener noreferrer nofollow">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo">
