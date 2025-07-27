@@ -50,6 +50,11 @@
        data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
        style="max-width: 100%; height: auto; max-height: 25px;">
 </a>
+<a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ec6d09fcdd5d264234f6701b04b94eae4fc34cb6c1e1efb8320c1ff9aaf60e3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667">
+  <img src="https://camo.githubusercontent.com/2ec6d09fcdd5d264234f6701b04b94eae4fc34cb6c1e1efb8320c1ff9aaf60e3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" height="25" alt="php logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%; height: auto; max-height: 25px;">
+</a>
+
 
 </div>
 
