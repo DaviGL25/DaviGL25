@@ -6,7 +6,7 @@
 
 <body style="font-family: sans-serif; line-height: 1.6;">
 
-  <h3>👋 Olá! Eu sou o Davi</h3>
+  <h3>👋 Olá! Eu sou Davi</h3>
 
   <p>
     💻 Atualmente estou no 5º semestre de Sistemas de Informação pela UFMT.<br>
