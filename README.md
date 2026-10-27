@@ -4,7 +4,6 @@
 
 <br>
 
-![Visualizações](https://komarev.com/ghpvc/?username=DaviGL25&label=Visualiza%C3%A7%C3%B5es&color=2F6FEB&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-gomes-lopes-65228b31a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davigomeslopes11@gmail.com)
@@ -27,21 +26,7 @@
 
 <div align="center">
 
-<img src="./notebook (2).svg" alt="Notebook animado com código sendo digitado" width="420" />
-
-</div>
-
----
-
-## 🧰 Minhas Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,fastapi,java,php,mysql&perline=10" alt="Linguagens e frameworks" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,windows,androidstudio,linux,postman&perline=8" alt="Ferramentas" />
+<img src="./notebook.svg" alt="Notebook animado com código sendo digitado" width="420" />
 
 </div>
 
@@ -112,7 +97,20 @@
 
 ---
 
-👉 Veja todos os meus projetos em [github.com/DaviGL25?tab=repositories](https://github.com/DaviGL25?tab=repositories)
+---
+
+## 🧰 Minhas Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,python,fastapi,java,php,mysql&perline=10" alt="Linguagens e frameworks" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,windows,androidstudio,linux,postman&perline=8" alt="Ferramentas" />
+
+</div>
+
 
 ---
 
