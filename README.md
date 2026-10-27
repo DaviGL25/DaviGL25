@@ -13,7 +13,6 @@
 
 ---
 
-## 👋 Olá! Eu sou o Davi
 
 - 💻 Cursando **Sistemas de Informação** na **UFMT** (Campus Cuiabá, noturno)
 - 🎓 Técnico Integrado em Informática pelo **IFMG – Campus São João Evangelista**
