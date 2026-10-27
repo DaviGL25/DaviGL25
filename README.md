@@ -10,6 +10,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davigomeslopes11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviGL25)
 
+<br>
+
+<img src="./notebook.svg" alt="Notebook animado com código sendo digitado" width="640" />
+
 </div>
 
 ---
@@ -84,6 +88,21 @@
 |---|---|
 | 🖥️ **Desktop** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | 🌐 **Web** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+[![Ver repositório](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github)](https://github.com/DaviGL25?tab=repositories)
+
+---
+
+### 🏷️ Marketplace Atas
+> Sistema web para cadastrar atas com seus preços e demais informações, no mesmo estilo do sistema da ótica.
+
+- 📋 Cadastro e consulta de atas com preços e informações relacionadas
+- 🗄️ Dados organizados em banco **MySQL**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![Ver repositório](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github)](https://github.com/DaviGL25?tab=repositories)
 
