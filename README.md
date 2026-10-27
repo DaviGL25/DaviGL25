@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="./notebook.svg" alt="Notebook animado com código sendo digitado" width="420" />
+<img src="./notebook2.svg" alt="Notebook animado com código sendo digitado" width="420" />
 
 </div>
 
