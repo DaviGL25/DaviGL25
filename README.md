@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F6FEB&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Davi+Gomes!;Desenvolvedor+de+Sistemas;Suporte+T%C3%A9cnico+%7C+Redes+%7C+Banco+de+Dados;Apaixonado+por+IA+e+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F6FEB&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Davi+Gomes!;Desenvolvedor+de+Sistemas;Dev+%7C+Redes+%7C+Banco+de+Dados;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
 <br>
 
@@ -39,29 +39,55 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em destaque
 
-<div align="center">
+### 🤖 WebCraft AI
+> Extensão do Chrome que transforma qualquer página web em conteúdo pronto para uso, com IA.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DaviGL25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviGL25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+- 📝 Resumos, material de estudo e mapa mental a partir do conteúdo da página
+- 📄 Geração de documentos **Word/PDF** e apresentações **PPTX**
+- 🛒 Anúncios profissionais para Mercado Livre, Shopee, Amazon, Instagram e WhatsApp
+- ✍️ Reescrita de texto selecionado, geração de copy e imagens para anúncios
+- 🔄 Conversor de arquivos PDF ↔ Word integrado
 
-<br>
+![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-<img src="https://streak-stats.demolab.com/?user=DaviGL25&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
+[![Ver repositório](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github)](https://github.com/DaviGL25?tab=repositories)
 
 ---
 
-## 🚀 Projetos em destaque
+### 💰 FinanceIA
+> Controle financeiro por conversa: você escreve seus ganhos e gastos como num chat e a IA organiza tudo.
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🤖 **WebCraft AI** | Extensão do Chrome que transforma páginas web em resumos, documentos (Word/PDF), apresentações e anúncios profissionais, com conversor de arquivos e geração de imagens | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
-| 💰 **FinanceIA** | Sistema de controle financeiro com interface de chat e IA | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
-| 👓 **Gerenciamento de Vendas de Ótica (Java)** | Sistema de gerenciamento de vendas para ótica | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 👓 **Gerenciamento de Vendas de Ótica (PHP)** | Versão web do sistema de vendas de ótica | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+- 💬 Interface de chat que entende entradas e saídas em linguagem natural
+- 🧠 A IA identifica sozinha se é ganho ou gasto, inclusive várias transações em uma só mensagem
+- 📎 Leitura de PDF/Word enviados para extrair ganhos e gastos automaticamente
+- ⚠️ Cálculo de saldo com alerta de margem de segurança e relatórios sob pedido
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+[![Ver repositório](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github)](https://github.com/DaviGL25?tab=repositories)
+
+---
+
+### 👓 Sistema de Gerenciamento de Vendas de Ótica
+> Sistema para controle de vendas de uma ótica, desenvolvido em duas versões.
+
+| Versão | Tecnologias |
+|---|---|
+| 🖥️ **Desktop** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 🌐 **Web** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+[![Ver repositório](https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github)](https://github.com/DaviGL25?tab=repositories)
+
+---
 
 👉 Veja todos os meus projetos em [github.com/DaviGL25?tab=repositories](https://github.com/DaviGL25?tab=repositories)
 
